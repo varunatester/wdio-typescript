@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "declaration": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "allowJs": false,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "./lib",
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+
+    "types": [
+      "chai",
+      "mocha",
+      "node",
+      "webdriverio"
+    ],
+
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "jsx": "react"
+  }
+}

@@ -44,3 +44,6 @@ This project is to demonstrate creating a test framework for sample application 
      1.Go to folder location where code is checkout, Run the test using command :npm test.
 * Check Reports :
      1.Reports can be seen under samplewebdriverio/allure-report/index.html
+
+
+![](allure.png)

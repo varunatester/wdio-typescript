@@ -25,13 +25,19 @@
     "@wdio/mocha-framework": "^5.1.0",
     "@wdio/selenium-standalone-service": "^5.1.0",
     "@wdio/sync": "^5.1.0",
-    "ts-node": "^7.0.0",
-    "typescript": "^3.2.2",
-    "webdriverio": "^5.1.1",
-    "mocha-allure-reporter": "^1.2.0",
+    "allure-commandline": "^2.0.0",
     "chai": "^4.0.2",
     "mocha": "^5.1.1",
-    "allure-commandline": "^2.0.0"
+    "mocha-allure-reporter": "^1.2.0",
+    "mocha-typescript": "^1.1.17",
+    "mochawesome": "3.0.2",
+    "mochawesome-report-generator": "3.1.1",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.2.2",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-mochawesome-reporter": "1.1.4",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "webdriverio": "^5.1.1"
   },
   "description": ""
 }

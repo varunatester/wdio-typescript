@@ -1,4 +1,6 @@
-const assert = require('assert');
+
+var assert = require('chai').assert;
+
 export class BaseTests {
 
     before(): any {
